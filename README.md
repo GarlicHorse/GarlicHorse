@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm interested in **cybersecurity** with a focus on **cryptography**.  <br>Right now, my main area of study is **homomorphic encryption** and the use of the **Number Theoretic Transform (NTT)** in its implementation.  <br><br>I like exploring how mathematical tools can be applied to build practical and secure systems.<br>
+I'm interested in **cybersecurity** with a focus on **cryptography**. <br>
+I explore many topics in **post-quantum cryptography (PQC)**, but I'm especially interested in **homomorphic encryption** and the role of the **Number Theoretic Transform (NTT)** in its implementation. <br><br>
+I enjoy studying how mathematical tools can be applied to design practical and secure systems. <br>
 
 
 # 💻 Tech Stack:
